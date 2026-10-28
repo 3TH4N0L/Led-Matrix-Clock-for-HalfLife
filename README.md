@@ -1,0 +1,41 @@
+LED Matrix Clock
+
+A DIY digital clock built using an LED matrix display, combining electronics, programming, and hardware design.
+
+About
+
+The LED Matrix Clock is a homemade digital clock designed to display the current time using an LED matrix. The project explores embedded programming, electronics, and hardware development to create a functional and compact timekeeping device.
+
+This project is a work in progress, with opportunities to introduce new features and improve the overall design.
+
+Features
+
+* Digital time display using an LED matrix
+* Clear, readable digits
+* Microcontroller-based operation
+* Customisable display and design
+* Potential for future hardware and software upgrades
+
+Hardware
+
+The components depend on the final design and may include:
+
+* LED matrix display
+* Microcontroller ESP32
+* Real-time clock (RTC) module or Wi-Fi time synchronisation
+* Power supply
+* Connecting wires and electronic components
+
+Software
+
+The software controls the clock’s timekeeping and LED display. It processes time data and converts it into readable digits on the matrix.
+
+The programming language and libraries depend on the microcontroller and display hardware being used.
+
+Design and Construction
+
+The project combines hardware and software to create a functional digital clock. A custom enclosure may be designed to protect the electronics while giving the finished product a clean, modern appearance.
+
+⸻
+
+An independent electronics and engineering project.
