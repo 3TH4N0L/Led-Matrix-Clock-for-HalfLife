@@ -1,3 +1,5 @@
+<img width="1180" height="820" alt="IMG_0047" src="https://github.com/user-attachments/assets/97d2c41d-f6af-4961-b337-5ca588d8cd22" />
+<img width="4032" height="3024" alt="IMG_0046" src="https://github.com/user-attachments/assets/040f45b6-479f-4b59-84ad-a154227c58f3" />
 LED Matrix Clock
 
 A DIY digital clock built using an LED matrix display, combining electronics, programming, and hardware design.
